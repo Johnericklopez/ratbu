@@ -19,7 +19,7 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                    <div class="alert alert-info"style="background-color: pink;">
+                    <div class="alert alert-info"style="background-color: gray;">
                     Employee Table
                     </div>
 
